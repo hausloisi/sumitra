@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" 
+		xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+<url>
+  <loc>https://www.sumitraspa.com/</loc>
+	<xhtml:link
+               rel="alternate"
+               hreflang="de"
+               href="https://www.sumitraspa.com/de/"/>
+  <lastmod>2021-10-07T14:19:43+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://www.sumitraspa.com/en/index.html</loc>
+  <lastmod>2021-10-07T14:19:43+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://www.sumitraspa.com/en/philosophy.html</loc>
+  <lastmod>2021-10-07T13:54:10+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.sumitraspa.com/en/spatreatment/massage.html</loc>
+  <lastmod>2021-10-07T13:08:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.sumitraspa.com/en/spatreatment/facial.html</loc>
+  <lastmod>2021-10-07T13:08:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.sumitraspa.com/en/spatreatment/wax-treatment.html</loc>
+  <lastmod>2021-10-07T13:08:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.sumitraspa.com/en/spatreatment/spa-packs.html</loc>
+  <lastmod>2021-10-07T14:43:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.sumitraspa.com/en/promotion.html</loc>
+  <lastmod>2021-10-07T13:54:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.sumitraspa.com/en/membership.html</loc>
+  <lastmod>2021-10-08T06:59:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.sumitraspa.com/en/academy.html</loc>
+  <lastmod>2021-10-08T06:59:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.sumitraspa.com/en/about.html</loc>
+  <lastmod>2021-10-07T13:54:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.sumitraspa.com/en/imprint.html</loc>
+  <lastmod>2021-10-08T06:59:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.sumitraspa.com/en/contact.html</loc>
+  <lastmod>2021-10-08T06:59:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.sumitraspa.com/en/privacy.html</loc>
+  <lastmod>2021-10-08T06:59:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+</urlset>
